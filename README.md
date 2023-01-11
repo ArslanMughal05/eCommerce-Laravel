@@ -7,6 +7,9 @@
  //open your project env folder then change database name
  
  cmd: composer install
- cmd: php artisan key:generate
- cmd: php aartisan migrate:fresh --seed
- cmd: php artisan serve
+ 
+cmd: php artisan key:generate
+
+cmd: php aartisan migrate:fresh --seed
+
+cmd: php artisan serve
