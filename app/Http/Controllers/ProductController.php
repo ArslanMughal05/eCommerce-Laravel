@@ -9,6 +9,6 @@ class ProductController extends Controller
     //
     function index()
     {
-        return "Product Page";
+        return "Wellcome Product Page";
     }
 }
