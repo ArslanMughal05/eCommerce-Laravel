@@ -22,5 +22,15 @@
         height: 730px;
         padding-top: 100px ;
     }
+    img.slider-img
+    {
+        height: 400px !important;
+    }
+    .custom-product{
+        height: 750px;
+    }
+    .slider-text{
+        background-color: #24465454 !important ;
+    }
 </style>
 </html>
