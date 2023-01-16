@@ -10,6 +10,6 @@
  
 cmd: php artisan key:generate
 
-cmd: php aartisan migrate:fresh --seed
+cmd: php artisan migrate:fresh --seed
 
 cmd: php artisan serve
