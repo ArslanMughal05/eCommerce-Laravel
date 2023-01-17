@@ -13,3 +13,5 @@ cmd: php artisan key:generate
 cmd: php artisan migrate:fresh --seed
 
 cmd: php artisan serve
+
+For Data Seeding --> php artisan db:seed --Table-Name_Seeder
