@@ -14,4 +14,4 @@ cmd: php artisan migrate:fresh --seed
 
 cmd: php artisan serve
 
-For Data Seeding --> php artisan db:seed --Table-Name_Seeder
+For Data Seeding --> php artisan db:seed --class=Table-Name_Seeder
