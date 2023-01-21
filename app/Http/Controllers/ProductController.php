@@ -30,8 +30,8 @@ class ProductController extends Controller
     }
 
     function addToCart( Request $req)
+    
     {
-        return "hello";
         if($req->session()->has('user'))
         {
             $cart= new Cart;
