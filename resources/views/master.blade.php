@@ -50,6 +50,11 @@
     .search-box{
         width: 500px !important;
     }
+    .cart-list-devider{
+        border-bottom: 1px solid #ccc;
+        margin: 20px;
+        padding-bottom: 20px;
+    }
 
 </style>
 </html>
